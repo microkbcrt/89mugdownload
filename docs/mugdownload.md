@@ -19,8 +19,8 @@
 #### 2. Muse Dash
 
 * **版本**：`-`
-* **下载地址**：❌ *暂不可下载*
-* **安装备注**：`-`
+* **下载地址**：[点击下载 (zip)](https://gh.jasonzeng.dev/https://github.com/microkbcrt/downloadiso/releases/download/MuseDash/MuseDash.apk.zip)
+* **安装备注**：zip 格式文件，请解压后安装。
 
 #### 3. Lanota
 
@@ -30,14 +30,20 @@
 
 #### 4. Dynamix
 
-* **版本**：`-`
-* **下载地址**：❌ *暂不可下载*
+* **版本**：`3.20.01`
+* **下载地址**：[点击下载 (APK)](https://gh.jasonzeng.dev/https://github.com/microkbcrt/downloadiso/releases/download/Dynamix/Dynamix_3.20.01.apk)
 * **安装备注**：`-`
 
 #### 5. Cytus II
 
 * **版本**：`-`
 * **下载地址**：❌ *暂不可下载*
+* **安装备注**：`-`
+
+#### 5. Malody
+
+* **版本**：`4.3.7`
+* **下载地址**：[点击下载 (APK)](https://gh.jasonzeng.dev/https://github.com/microkbcrt/downloadiso/releases/download/Malody/Malody_4.3.7.apk)
 * **安装备注**：`-`
 
 ---
