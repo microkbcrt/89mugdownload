@@ -6,7 +6,7 @@ theme:
   name: material
   language: zh
   # Logo 与标签页图标（需放入 docs/assets/ 目录下）
-  logo: assets/logo.png
+  logo: assests/logo.png
   # favicon: assets/favicon.ico
   
   features:
