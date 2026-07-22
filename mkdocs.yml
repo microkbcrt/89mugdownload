@@ -7,7 +7,7 @@ theme:
   language: zh
   # Logo 与标签页图标（需放入 docs/assets/ 目录下）
   logo: assest/logo.jpg
-  # favicon: assets/favicon.ico
+  favicon: assest/favicon.ico
   
   features:
     - navigation.instant
