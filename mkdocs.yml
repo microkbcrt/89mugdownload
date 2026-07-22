@@ -3,6 +3,8 @@ site_description: 89中音游社官方网站
 site_author: kbcrt
 
 copyright: © 2026 89中音游社 All Rights Reserved.
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
