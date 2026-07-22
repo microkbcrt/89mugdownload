@@ -32,6 +32,6 @@
 
 进群
 
-![二维码](https://example.com/image.png "网络图片示例")
+![二维码](https://next89.kbcrt.fun/assest/qrcode.jpg "二维码")
 
 *© 2026 89中音游社 All Rights Reserved.*
