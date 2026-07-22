@@ -35,3 +35,7 @@ theme:
 # 插件配置（支持搜索等核心功能）
 plugins:
   - search
+
+nav:
+  - 首页: index.md
+  - 下载站: mugdownload.md
