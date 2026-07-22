@@ -1,0 +1,8 @@
+site_name: My Docs
+theme:
+  name: material
+  language: zh    # 设置语言为中文（可选）
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
