@@ -1,0 +1,4 @@
+/* 隐藏底部的 Material for MkDocs 署名 */
+.md-copyright__highlight + a {
+  display: none !important;
+}
