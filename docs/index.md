@@ -17,7 +17,7 @@
 | 平台类别 | 代表游戏 |
 | --- | --- |
 | **街机 (Arcade)** | `maimai DX`、`CHUNITHM`、`……` |
-| **移动端 (Mobile)** | `Phigros`、`Arcaea`、`世界计划 (PJSK)`、`……` |
+| **移动端 (Mobile)** | `Phigros`、`Arcaea`、`PJSK`、`Paradigm: Reboot`、`……` |
 
 ---
 
