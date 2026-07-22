@@ -33,5 +33,3 @@
 进群
 
 ![二维码](assest/qrcode.jpg "二维码")
-
-*© 2026 89中音游社 All Rights Reserved.*
