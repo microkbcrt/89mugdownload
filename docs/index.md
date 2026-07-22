@@ -1,17 +1,37 @@
-# Welcome to MkDocs
+# 欢迎来到 89中音游社 官方网站
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> *"Touch the Beat, Feel the Rhythm. 在这里，遇见与你同频的节奏。"*
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 关于我们
 
-## Project layout
+**89中音游社** 是校内热爱音乐游戏的同好们聚集的温馨港湾。无论你是追求理论的硬核大触，还是刚接触音游的萌新，在这里，只要你对音游有着炽热的追求，就能找到并肩作战的伙伴！
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## 社团主打游戏
+
+我们在各大平台（街机、移动端、PC）均有涉猎，无论你喜欢哪一款，都能在社团里找到志同道合的同好：
+
+| 平台类别 | 代表游戏 |
+| --- | --- | --- |
+| **街机 (Arcade)** | `maimai DX`、`CHUNITHM`、`……`|
+| **移动端 (Mobile)** | `Phigros`、`Arcaea`、`世界计划 (PJSK)`、`……` |
+
+---
+
+## 社团活动
+
+* **社课**：丰富的社课内容。甚至在社课打音游！
+* **音趴**：组队前往机厅，线下社员交流，享受面基与快乐。
+
+---
+
+## 如何加入我们？
+
+进群
+
+![二维码](https://example.com/image.png "网络图片示例")
+
+*© 2026 89中音游社 All Rights Reserved.*
