@@ -37,8 +37,8 @@
 #### 5. Cytus II
 
 * **版本**：`-`
-* **下载地址**：❌ *暂不可下载*
-* **安装备注**：`-`
+* **下载地址**：[下载分卷一 (.z01)](https://gh.jasonzeng.dev/https://github.com/microkbcrt/downloadiso/releases/download/CytusII/CytusII.apk.z01) | [下载分卷二 (.zip)](https://gh.jasonzeng.dev/https://github.com/microkbcrt/downloadiso/releases/download/CytusII/CytusII.apk.zip)
+* **安装备注**：分卷压缩文件，请下载**两个文件**后，使用 **ZArchiver Pro** 解压 `Arcaea.apk.z01` 后安装。
 
 #### 6. Malody
 
